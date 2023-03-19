@@ -1,9 +1,11 @@
 package ge
 
 import (
+	"runtime"
 	"time"
 
 	"github.com/hajimehoshi/ebiten/v2"
+
 	"github.com/quasilyte/ge/internal/locales"
 )
 
